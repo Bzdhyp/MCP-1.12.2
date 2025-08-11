@@ -8,6 +8,8 @@ Use JDK17
 
 ![i](screenshot/1.png)
 
+![i](screenshot/2.png)
+
 ![i](screenshot/3.png)
 
 ![i](screenshot/4.png)
